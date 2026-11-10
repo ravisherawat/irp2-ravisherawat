@@ -4,8 +4,5 @@ def reverse_words(sentence):
 
 
 if __name__ == "__main__":
-    sentence = input("Enter a sentence: ")
+    sentence = input()
     print(reverse_words(sentence))
-
-
-

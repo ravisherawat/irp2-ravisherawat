@@ -18,5 +18,6 @@ python problems/p2_binary_search.py
 python problems/p3_digit_sum.py
 python problems/p4_pair_count.py
 ```
+
 ## Git Workflow
 Development is done on the dev branch and merged into main.

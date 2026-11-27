@@ -21,3 +21,7 @@ python problems/p4_pair_count.py
 
 ## Git Workflow
 Development is done on the dev branch and merged into main.
+## Sample Input and Output
+Problem 1: I love coding -> coding love I
+Problem 2: 5 / 1 3 5 7 9 / 7 -> 3
+Problem 3: 9875 -> 29
